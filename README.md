@@ -34,7 +34,7 @@ You can also find short explanations about the code flow in the jupyter notebook
 
 ## Medium
 
-Here you can find the medium blogpost dedicated to this project.
+Here you can find the [medium blogpost](https://medium.com/@cihan.evren/how-much-we-can-learn-from-uber-pickup-history-3e5f25683ea3) dedicated to this project.
 
 
 ## Thanks
